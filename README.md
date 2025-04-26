@@ -1,5 +1,5 @@
 ### Jadiel RT :)
-- 👨 Desenvolvedor / Analista de Sistemas / Suporter Infra
+- 👨 Desenvolvedor / Analista de Sistemas / Infraestutura / Hardware 
 - 💻 Apaixonado por **tecnologia**
 - ☕ Atualmente mais focado em:
 <div style="display: inline">
