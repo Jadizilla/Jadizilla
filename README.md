@@ -1,6 +1,7 @@
-### Jadiel RT :)
+# **Jadiel RT :)**
 - 👨 Desenvolvedor / Analista de Sistemas / Infraestutura / Hardware 
 - 💻 Apaixonado por **tecnologia**
+- 
 - ☕ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
@@ -13,7 +14,7 @@
 <!--![Habacuque GitHub stats](https://github-readme-stats.vercel.app/api?username=Habacuque-Gosch&show_icons=true&theme=dark)  -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habacuque-Gosch&hide_progress=true)-->
 
-## Redes Sociais:
+# Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=whi)](https://www.instagram.com/hypertech_sc/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-ribeiro-trindade/)
 
@@ -55,7 +56,7 @@
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)-->
 
- # 📊 Estatísticas do GitHub:
+# 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadizilla&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
  <!-- # link para imaggens de github
