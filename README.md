@@ -1,7 +1,6 @@
 # **Jadiel RT :)**
 - 👨 Desenvolvedor / Analista de Sistemas / Infraestutura / Hardware 
 - 💻 Apaixonado por **tecnologia**
-- 
 - ☕ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
@@ -9,10 +8,6 @@
   &nbsp;&nbsp;<img widht='50' height='50' src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='50' height='50' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 </div> 
-<br>
-
-<!--![Habacuque GitHub stats](https://github-readme-stats.vercel.app/api?username=Habacuque-Gosch&show_icons=true&theme=dark)  -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habacuque-Gosch&hide_progress=true)-->
 
 # Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=whi)](https://www.instagram.com/hypertech_sc/) 
@@ -39,6 +34,11 @@
 ![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+<!--![Habacuque GitHub stats](https://github-readme-stats.vercel.app/api?username=Habacuque-Gosch&show_icons=true&theme=dark)  -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habacuque-Gosch&hide_progress=true)-->
+
 <!--[C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)-->
 <!--![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
