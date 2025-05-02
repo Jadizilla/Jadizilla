@@ -10,7 +10,7 @@
 </div> 
 
 # Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=whi)](https://www.instagram.com/hypertech_sc/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=whi)](https://www.instagram.com/jadiel_rt/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-ribeiro-trindade/)
 
 # 💻 Tech Stack:
